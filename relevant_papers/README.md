@@ -26,7 +26,7 @@ Video gamers and personality: A five-factor model to understand game playing sty
 This paper uses the Big Five Inventory (BFI) personality measurements to categorize World of Warcraft (WoW) players based on server playing style and character specialization. 
 
 The hypotheses analyzed were:
-* WoW players will choose their main character based in part on the personality traints of the player.
+* WoW players will choose their main character based in part on the personality traits of the player.
 * Players will exhibit different personality attributes between the variety of character classes, races, and specializations.
 * Server playing styles are affected by different personality characteristics.
 
